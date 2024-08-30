@@ -16,6 +16,13 @@ WeatherApp is a React Native application designed to provide a user-friendly int
    ```bash
    git clone https://github.com/amit1924/weatherApp.git
 
+   cd weatherApp
+
+
+   npm install
+
+   npm start/npx expo start
+
 
 
 ### How to Use This README
