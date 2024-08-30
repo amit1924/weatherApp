@@ -1,0 +1,19 @@
+ eas build --platform android --profile production
+>
+Loaded "env" configuration for the "production" profile: . Learn more: https://docs.expo.dev/build-reference/variables/
+✔ Using remote Android credentials (Expo server)
+✔ Using Keystore from configuration: Build Credentials jmA6AKhhlx (default)
+
+Compressing project files and uploading to EAS Build. Learn more: https://expo.fyi/eas-build-archive
+✔ Compressed project files 4s (50.9 MB)
+✔ Uploaded to EAS 15s
+
+Build details: https://expo.dev/accounts/amit1924/projects/weatherapp/builds/0fbd3767-552d-4b54-bfd3-b17d22a39a88
+
+Waiting for build to complete. You can press Ctrl+C to exit.
+✔ Build finished
+
+🤖 Android app:
+https://expo.dev/artifacts/eas/2WJ3TUUdGBTXt6MWdPdooC.apk
+
+? Install and run the Android build on an emulator? » (Y/n)
